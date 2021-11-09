@@ -7,7 +7,7 @@ package Modelos;
 
 /**
  *
- * @author AdminSena
+ * @author Nes
  */
 public class Venta {
      int idVenta, item, idProducto, idEmpleado, idCliente, cantidad;

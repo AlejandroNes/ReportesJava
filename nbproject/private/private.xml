@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/src/java/Controladores/Controlador.java</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/src/java/Modelos/VentaDAO.java</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/web/Ventas.jsp</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/src/java/Modelos/Venta.java</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/src/java/Config/Conexion.java</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/src/java/Modelos/ProductoDAO.java</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/web/Empleados.jsp</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/web/index.jsp</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/src/java/Controladores/Validar.java</file>
-            <file>file:/C:/Users/alene/Documents/NetBeansProjects/SoftwareVentas/web/Principal.jsp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

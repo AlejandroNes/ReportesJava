@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author AdminSena
+ * @author Nes
  */
 public class UsuarioDAO {
 
